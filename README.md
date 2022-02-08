@@ -1,12 +1,6 @@
-# Typing Test
+# Key Ctrl
 
-### [Project Proposal](https://github.com/CIS3296SoftwareDesignF21/feedback-on-proposals-section-001-m-w-11-am/issues/14)
 ### [Change Log](https://github.com/CIS3296SoftwareDesignF21/prj-01-typingtest/blob/main/CHANGELOG.md)
-### [Trello Board](https://trello.com/b/ZA8xvBef/typing-test)
-### [Week 1 Trello](https://github.com/CIS3296SoftwareDesignF21/prj-01-typingtest/tree/main/Progress/Week1.md)
-### [Week 2 Trello](https://github.com/CIS3296SoftwareDesignF21/prj-01-typingtest/tree/main/Progress/Week2.md)
-### [Week 3 Trello](https://github.com/CIS3296SoftwareDesignF21/prj-01-typingtest/tree/main/Progress/Week3.md)
-### [Week 4 Trello](https://github.com/CIS3296SoftwareDesignF21/prj-01-typingtest/tree/main/Progress/Week4.md)
 
 ## Project Description
 
@@ -29,12 +23,6 @@ To manage the database, we plan to take advantage of AWS AmazonRDS to host MySQL
 ## Why Use?
 
 For any user who would like to improve their typing skills. (Typing Test) is a typing simulator that allows users to learn pratical typing skills, improve their words per minute, and gain good typing habits, all while having fun. Unlike TypeRacer, our product achieves a feature-rich program with an elegant user interface that is utilized as an executable desktop application. 
-
-## Client Install
-
-- [Download Latest Release](https://github.com/CIS3296SoftwareDesignF21/prj-01-typingtest/releases/download/v0.3.0-pre-release/typing-test-win32-x64.zip)
-- Extract .zip file 
-- Run typing-test.exe
 
 ## Developer Install
 
@@ -60,7 +48,7 @@ npm install react-loader-spinner --save
 ```
 - Clone Repo
 ```
-git clone https://github.com/CIS3296SoftwareDesignF21/prj-01-typingtest
+git clone https://github.com/KeyCTRL/KeyCtrl
 ```
 ## Open & Run 
 - Recommemded IDE: [Visual Studio Code](https://code.visualstudio.com/download)
@@ -68,28 +56,18 @@ git clone https://github.com/CIS3296SoftwareDesignF21/prj-01-typingtest
 - Navigate to Cloned Repository Direcctory
 - Utilize VS Code 
 ```
-cd prj-01-typingtest/typing-test
+cd KeyCtrl/
 code .
 ```
 ### Run
 -Run .bat file to connect to server and open electron app
 ```
-cd prj-01-typingtest/typing-test
-./Open.bat
+cd KeyCtrl/
+npm start
 ```
-
-## [UML](https://github.com/CIS3296SoftwareDesignF21/prj-01-typingtest/blob/Revise-ReadMe/UML/UML.md)
-
-## [User Personas](https://github.com/CIS3296SoftwareDesignF21/prj-01-typingtest/blob/Revise-ReadMe/UserPersonas/UserPersonas.md)
-
 
 
 ## Releases
-- [0.1.0-pre-release](https://github.com/CIS3296SoftwareDesignF21/prj-01-typingtest/releases/download/v0.1.0/typing-test-win32-x64.rar)
 
-- [0.2.0-pre-release](https://github.com/CIS3296SoftwareDesignF21/prj-01-typingtest/releases/download/v0.2.0-pre-release/typing-test-win32-x64.zip)
-
-- [0.3.0-pre-release](https://github.com/CIS3296SoftwareDesignF21/prj-01-typingtest/releases/download/v0.3.0-pre-release/typing-test-win32-x64.zip)
-
-- [1.0.0-release](https://github.com/CIS3296SoftwareDesignF21/prj-01-typingtest/releases/tag/v1.0.0)
+- [1.0.0-release](https://github.com/KeyCTRL/KeyCtrl/releases/tag/v1.0.0)
 
